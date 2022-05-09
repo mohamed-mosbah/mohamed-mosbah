@@ -1,4 +1,4 @@
-# Hi, I'm Mohamed Mosba 👋 
+# Hi, I'm Mohamed Mosbah 👋 
 
 - 👨‍🎓 I’m a Computer Engineering master's student
 - 👨‍💻 I’m interested in The Embedded Software Development and almost everything tech-related
