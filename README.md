@@ -1,6 +1,6 @@
 # Hi, I'm Mohamed Mosbah 👋 
 
-- 👨‍🎓 I’m a Computer Engineering master's student
+- 👨‍🎓 I’m a Computer Engineering master's student at the RWTH Aachen
 - 👨‍💻 I’m interested in The Embedded Software Development and almost everything tech-related
 - 🌱 I’m currently learning Embedded Software Development and Testing
 - 📫 How to reach me mohamed.sami@rwth-aachen.de
