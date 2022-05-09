@@ -9,3 +9,9 @@
 mohamed-mosbah/mohamed-mosbah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-mosbah&show_icons=true&locale=en&layout=compact" alt="mohamed-mosbah" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed-mosbah&show_icons=true&locale=en" alt="mohamed-mosbah" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-mosbah&" alt="mohamed-mosbah" /></p>
